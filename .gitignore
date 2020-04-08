@@ -1,0 +1,8 @@
+*.dll
+*.pdb
+*.csproj
+.vs
+.vscode
+obj/
+Library/
+Editor.app/
